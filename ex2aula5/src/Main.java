@@ -1,5 +1,6 @@
-import java.util.Scanner;
 //ex2aula5 Italo Trindade
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
 
