@@ -7,7 +7,7 @@ public class Main {
 
         int contador = 1;
         int num;
-        int comparar=10000000;
+        int comparar=Integer.MAX_VALUE;
 
         while (contador <= 10){
             System.out.println(" Digite o " + contador + "° numero : ");
